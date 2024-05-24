@@ -4,7 +4,7 @@
 
 ![Top Langs](https://github-readme-stats-cyan-iota-11.vercel.app/api/top-langs/?username=sachindoddaguni&hide_progress=true)
 
-[![Linkedin: Sachin](https://img.shields.io/badge/-sachindoddaguni-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin-r-d-23140b162/)]([https://www.linkedin.com/in/gianlucamardente/](https://www.linkedin.com/in/sachin-r-d-23140b162/))
+[![Linkedin: Sachin](https://img.shields.io/badge/-Sachin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sachin-r-d-23140b162/)](https://www.linkedin.com/in/sachin-r-d-23140b162/)
 
 
 
