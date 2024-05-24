@@ -10,7 +10,7 @@ Nice to meet you! I am a Computer Science Graduate Student.
 - 🏠 I currently reside in Raleigh, US.
   
 [![Sachin's GitHub stats](https://github-readme-stats-cyan-iota-11.vercel.app/api?username=sachindoddaguni&hide=stars&rank_icon=percentile&hide_rank=true&include_all_commits=true&show=prs_merged&show_icons=true)](https://github.com/sachindoddaguni/github-readme-stats)
-![Top Langs](https://github-readme-stats-cyan-iota-11.vercel.app/api/top-langs/?username=sachindoddaguni&hide_progress=true&langs_count=10)
+![Top Langs](https://github-readme-stats-cyan-iota-11.vercel.app/api/top-langs/?username=sachindoddaguni&hide_progress=true&langs_count=10&hide-html,css)
 
 
 
